@@ -15,3 +15,10 @@ size. Considering type of model, GPT-2 and FlanT5 models are significantly bette
 but also have high toxicity as compared to DialoGPT. ChatGPT are much better at generating counter speech than
 other models across all metrics. In terms of prompting, we find that our proposed strategies help in improving counter
 speech generation across all the models.
+
+## Folder Description
+'''
+./Generation              ----> Contains the code used in generation and evaluation of counterspeech
+./Prompts_generation      ----> Contains the code used in Prompts generation
+
+'''
