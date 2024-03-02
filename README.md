@@ -18,7 +18,7 @@ speech generation across all the models.
 
 ## Folder Description
 
-```python
+```text
 ./Generation              ----> Contains the code used in generation and evaluation of counterspeech
 ./Prompts_generation      ----> Contains the code used in Prompts generation
 ```
