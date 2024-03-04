@@ -21,6 +21,7 @@ speech generation across all the models.
 ## Folder Description
 
 ```text
+./Datasets                ----> Contains the dataset used for testing our methods
 ./Generation              ----> Contains the code used in generation and evaluation of counterspeech
 ./Prompts_generation      ----> Contains the code used in Prompts generation
 ```
