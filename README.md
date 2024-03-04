@@ -16,6 +16,8 @@ but also have high toxicity as compared to DialoGPT. ChatGPT are much better at 
 other models across all metrics. In terms of prompting, we find that our proposed strategies help in improving counter
 speech generation across all the models.
 
+**WARNING: The repository contains content that are offensive and/or hateful in nature.**
+
 ## Folder Description
 
 ```text
