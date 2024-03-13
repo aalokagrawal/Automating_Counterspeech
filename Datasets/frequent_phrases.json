@@ -1,0 +1,50 @@
+{
+    "Gab": [
+        "Your post uses speech that",
+        "Use of the slur here",
+        "Use of the n-word is",
+        "Use of the r-word is",
+        "Just because someone is a",
+        "The term you have used",
+        "Just because someone likes the",
+        "Please do not use derogatory",
+        "It doesn't make sense to",
+        "Use of the c-word is"
+    ],
+    "Reddit": [
+        "Your post uses speech that",
+        "Please refrain from using hateful",
+        "derogatory comments are not productive.",
+        "I don't see a reason",
+        "People's disabilities have nothing to",
+        "sexist comments and views are",
+        "Using the word 'cunt' is",
+        "Using a word that describes",
+        "Mentally challenged individuals tend to",
+        "Please do not use derogatory"
+    ],
+    "CONAN_New": [
+        "This is not true. How",
+        "How can you say this",
+        "Where did you get this",
+        "The world would be a",
+        "What do you mean by",
+        "That sounds like quite a",
+        "There are criminals, who are",
+        "The only ones in favour",
+        "Except when you need a",
+        "Evidence?"
+    ],
+    "CONAN_MT_New": [
+        "There is no evidence that",
+        "Islam is a religion of",
+        "It is not true that",
+        "What do you mean by",
+        "The vast majority of Muslims",
+        "Women are human beings with",
+        "Do you really think that",
+        "The European Convention on Human",
+        "Muslims are part of our",
+        "I don't think it is"
+    ]
+}
