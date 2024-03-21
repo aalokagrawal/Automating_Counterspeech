@@ -23,7 +23,7 @@ speech generation across all the models.
 ```text
 ./Counterspeech_classification       ----> Contains the code used to train classification models
 ./Datasets                           ----> Contains the dataset used for testing our methods
-./Prompts_generation                 ----> Contains the code used to generate prmpts
+./Prompts_generation                 ----> Contains the code used to generate prompts
 ./Results_new                        ----> Contains example file Generation.py generates
 ./generation                         ----> Contains the code used in generation and evaluation of counterspeech
 ```
