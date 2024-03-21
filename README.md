@@ -47,3 +47,13 @@ counterspeech_type  : Type of counterspeech to be generated
 --prompt            : To use our prompts or not
 ```
 To change the prompting method, uncomment the required get_template function in the Generation.py
+
+**Evaluation**
+
+To evaluate the counterspeech on different metrics use the following command
+```text
+python Newer_metrics.py [--dataset] [--metric]
+Arguments:
+dataset  : dataset whose generation file is  to be evaluated
+metric   : metic name which need to be evaluated
+```
