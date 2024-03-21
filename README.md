@@ -27,3 +27,23 @@ speech generation across all the models.
 ./Results_new                        ----> Contains example file Generation.py generates
 ./generation                         ----> Contains the code used in generation and evaluation of counterspeech
 ```
+
+## Usage Instructions
+
+Install the libraries using the following command (preferably inside an environemt)
+```python
+pip install -r requirements.txt
+```
+**Generation**
+
+To generate counterspeech using models use the following command
+```text
+python Generation.py [--model_name] [--dataset] [--counterspeech_type] --hs --prompt
+Arguments:
+model_name          : model to be used for generation
+dataset             : dataset to be used for generation
+counterspeech_type  : Type of counterspeech to be generated
+--hs                : To use hatespeech or not
+--prompt            : To use our prompts or not
+```
+To change the prompting method, uncomment the required get_template function in the Generation.py
