@@ -1,5 +1,8 @@
 # On Zero-Shot Counterspeech Generation by LLMs [Accepted at LREC-COLING 2024]
 
+### :tada: :tada: BERT for detecting counterspeech is uploaded [here](https://huggingface.co/Hate-speech-CNERG/counterspeech-quality-bert). Be sure to check it out :tada: :tada:.
+### :tada: :tada: BERT for detecting counter-argument is uploaded [here](https://huggingface.co/Hate-speech-CNERG/argument-quality-bert). Be sure to check it out :tada: :tada:.
+
 ## Abstract
 With the emergence of numerous Large Language Models (LLM), the usage of such models in various Natural
 Language Processing (NLP) applications is increasing extensively. Counterspeech generation is one such key task
